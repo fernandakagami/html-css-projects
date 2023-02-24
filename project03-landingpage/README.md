@@ -11,6 +11,10 @@ Project of a Landing Page
 - HTML
 - CSS
 
+## 💻 Project
+
+<a href="https://fernandakagami.github.io/html-css-projects/project03-landingpage/">Link to the project</a><br>
+
 ## :memo: License
 
 This project has a MID license.
